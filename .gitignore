@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DemoGitLearn/DemoGitLearn/obj
+/DemoGitLearn/DemoGitLearn/bin/Debug/netcoreapp2.2
+/DemoGitLearn/.vs
